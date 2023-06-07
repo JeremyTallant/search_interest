@@ -6,7 +6,7 @@ In this project, we will explore the search data underneath the Kardashian famil
 ## Contents 
 1. **The sisters and Google Trends:** Load and inspect the data.
 2. **Better "kolumn" names:** Improve the column names.
-3. **Pesky data types:**
+3. **Pesky data types:** Inspect the data types.
 4. **From object to integer:**
 5. **From object to datetime:**
 6. **Set month as index:**
