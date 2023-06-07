@@ -4,8 +4,8 @@ Time series data is everywhere; from temperature records, to unemployment rates,
 
 In this project, we will explore the search data underneath the Kardashian family's fame and make custom plots to find how the most famous Kardashian/Jenner sister has changed over time. 
 ## Contents 
-1. **The sisters and Google Trends:** Load and inspect the data
-2. **Better "kolumn" names:**
+1. **The sisters and Google Trends:** Load and inspect the data.
+2. **Better "kolumn" names:** Improve the column names.
 3. **Pesky data types:**
 4. **From object to integer:**
 5. **From object to datetime:**
