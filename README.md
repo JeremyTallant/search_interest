@@ -8,7 +8,7 @@ In this project, we will explore the search data underneath the Kardashian famil
 2. **Better "kolumn" names:** Improve the column names.
 3. **Pesky data types:** Inspect the data types.
 4. **From object to integer:** Remove the "<" characters and cast the columns to integer.
-5. **From object to datetime:**
+5. **From object to datetime:** Cast the month column to the datetime.
 6. **Set month as index:**
 7. **The early Kim hype:**
 8. **Kylie's rise:**
