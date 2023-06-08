@@ -12,5 +12,5 @@ In this project, we will explore the search data underneath the Kardashian famil
 6. **Set month as index:** Set the DataFrame index to month.
 7. **The early Kim hype:** Plot search interest vs. month.
 8. **Kylie's rise:** Plot search interest vs. month from January 2014 onward.
-9. **Smooth out the fluctuations with rolling means:**
+9. **Smooth out the fluctuations with rolling means:** Plot a twelve-month rolling mean for search interest vs. month.
 10. **Who's more famous? The Kardashians or the Jenners?**
